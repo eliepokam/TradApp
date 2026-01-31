@@ -1,1 +1,1 @@
-print(1+1)
+print("Premiere version de mon application")
